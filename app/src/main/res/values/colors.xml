@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_main">#061B39</color>
+    <color name="bg_header">#031B3D</color>
+    <color name="bg_input">#062542</color>
+    <color name="bin_blue">#1769AA</color>
+    <color name="oct_orange">#E67E22</color>
+    <color name="dec_green">#159447</color>
+    <color name="hex_purple">#7B3FC6</color>
+    <color name="btn_alpha">#087F3D</color>
+    <color name="btn_num">#0754A5</color>
+    <color name="btn_op">#FFB900</color>
+    <color name="btn_clear">#E5EAF2</color>
+    <color name="btn_equal">#8E25F4</color>
+    <color name="btn_convert">#20A85A</color>
+    <color name="btn_disabled">#26364D</color>
+    <color name="text_yellow">#FFD23F</color>
+    <color name="text_dim">#8FAFD5</color>
+</resources>

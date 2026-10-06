@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ICT Academic Care – Base Calculator</string>
+    <string name="mentor_title">আই.সি.টি মেন্টর:</string>
+    <string name="mentor_name">ইকবাল মাহমুদ</string>
+    <string name="branding_line">আই.সি.টি একাডেমিক কেয়ার</string>
+    <string name="phone_number">01312169274</string>
+    <string name="more_base_title">MORE BASE</string>
+    <string name="more_base_sub">Base 2 - 20</string>
+    <string name="direct_input_tip">BIN / OCT / DEC / HEX ঘরে ক্লিক করে সরাসরি সংখ্যা লিখুন</string>
+</resources>
